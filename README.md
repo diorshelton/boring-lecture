@@ -1,6 +1,6 @@
 #### _Boring Lecture is a fake webpage for practices use of styling with classes, {June 10, 2020}_
 
-#### By _**{Dior Shelton}**_
+#### By _**Dior Shelton**_
 
 ## Description
 
